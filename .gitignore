@@ -1,0 +1,4 @@
+mysite/myapi/__pycache__/*.pyc
+mysite/mysite/__pycache__/*.pyc
+venv/
+mysite/myapi/migrations/__pycache__/*.pyc
